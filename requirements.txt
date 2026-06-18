@@ -1,0 +1,9 @@
+fastapi[standard]
+sqlmodel
+passlib
+bcrypt==3.2.0
+pyjwt
+python-multipart
+python-dotenv
+email-validator
+aiofiles
