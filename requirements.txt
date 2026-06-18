@@ -1,9 +1,9 @@
-fastapi[standard]
-sqlmodel
-passlib
-bcrypt==3.2.0
-pyjwt
-python-multipart
-python-dotenv
-email-validator
-aiofiles
+fastapi[standard]== 0.137.1
+sqlmodel== 0.0.38
+passlib== 1.7.4
+bcrypt== 3.2.0
+pyjwt== 2.13.0
+python-multipart== 0.0.32
+python-dotenv== 1.2.2
+email-validator==2.3.0
+aiofiles==25.1.0
